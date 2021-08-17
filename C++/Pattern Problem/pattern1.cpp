@@ -1,4 +1,13 @@
 // Normal Rectange Pattern
+-----PATTERN-----
+row = 5, col = 5
+* * * * * 
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+
+-----CODE-----
 
 #include<iostream>
 using namespace std;
