@@ -1,6 +1,7 @@
 // Normal Rectange Pattern
 -----PATTERN-----
 row = 5, col = 5
+
 * * * * * 
 * * * * *
 * * * * *
